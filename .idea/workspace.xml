@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd077427-2bf5-401f-97a2-c0376d925616" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/is-palindrome.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746707542264</updated>
-      <workItem from="1746707543281" duration="1931000" />
+      <workItem from="1746707543281" duration="3723000" />
     </task>
     <servers />
   </component>
@@ -61,6 +62,7 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/convert-string-to-number.js" />
+        <option value="$PROJECT_DIR$/is-palindrome.js" />
       </list>
     </option>
   </component>
