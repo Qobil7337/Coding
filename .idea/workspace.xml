@@ -6,6 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="fd077427-2bf5-401f-97a2-c0376d925616" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/cockroach.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/cockroach.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/convert-string-to-number.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/convert-string-to-number.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/count-by-x.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/count-by-x.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/fake-binary.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/fake-binary.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/find-max-min-values.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/find-max-min-values.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/grade-book.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/grade-book.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/grow.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/grow.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/hello-world.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/hello-world.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/is-he-gonna-survive.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/is-he-gonna-survive.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/is-palindrome.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/is-palindrome.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/reverse-words.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/reverse-words.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sentence-smash.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sentence-smash.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/string-ends-with.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/string-ends-with.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sum-of-odd-numbers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-of-odd-numbers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sum-without-highest-and-lowest-number.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-without-highest-and-lowest-number.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/you-are-a-square.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/you-are-a-square.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\OneDrive\Рабочий стол\web\TypeScript-coding\typescript" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,6 +81,7 @@
       <workItem from="1746982089861" duration="1744000" />
       <workItem from="1748329379527" duration="315000" />
       <workItem from="1748329705365" duration="2454000" />
+      <workItem from="1750592645632" duration="146000" />
     </task>
     <servers />
   </component>
