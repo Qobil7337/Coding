@@ -36,32 +36,32 @@
 // Output: 1994
 // Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-const map = new Map<string, number>([
-    ['I', 1],
-    ['V', 5],
-    ['X', 10],
-    ['L', 50],
-    ['C', 100],
-    ['D', 500],
-    ['M', 1000],
-    ['IV', 4],
-    ['IX', 9],
-    ['XL', 40],
-    ['XC', 90],
-    ['CD', 400],
-    ['CM', 900]
-])
 
 function romanToInt(s: string) {
-    const result = []
-    const arr = s.split('')
-    // for ( let i = 0; i < arr.length; i++ ) {
-    //     console.log(map.has(arr[i]))
-    //     if (map.has(arr[i])) result.push(map.get(arr[i]))
-    // }
-    // const sum = result.reduce((sum, acc) => sum + acc)
-    // console.log(sum)
-    console.log(arr)
+    const map = new Map<string, number>([
+        ['I', 1],
+        ['V', 5],
+        ['X', 10],
+        ['L', 50],
+        ['C', 100],
+        ['D', 500],
+        ['M', 1000],
+    ])
+    let result = 0
+    for (let i = 0; i < s.length; i + 2) {
+        const currentChar = s.charAt(i)
+        const nextChar = s.charAt(i + 1)
+        if (currentChar !== undefined && nextChar !== undefined) {
+            const currentValue = map.get(currentChar)!
+            const nextValue = map.get(nextChar)!
+            if (currentValue < nextValue) {
+                result += currentValue - nextValue
+
+            } else {
+                result += currentValue
+            }
+        }
+    }
 }
 
-romanToInt('XXMII')
+romanToInt('IV')
