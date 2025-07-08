@@ -37,7 +37,7 @@
 // Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 
-function romanToInt(s: string) {
+function romanToInt(s: string): number {
     const map = new Map<string, number>([
         ['I', 1],
         ['V', 5],
@@ -45,23 +45,28 @@ function romanToInt(s: string) {
         ['L', 50],
         ['C', 100],
         ['D', 500],
-        ['M', 1000],
+        ['M', 1000]
     ])
     let result = 0
-    for (let i = 0; i < s.length; i + 2) {
-        const currentChar = s.charAt(i)
-        const nextChar = s.charAt(i + 1)
-        if (currentChar !== undefined && nextChar !== undefined) {
-            const currentValue = map.get(currentChar)!
-            const nextValue = map.get(nextChar)!
-            if (currentValue < nextValue) {
-                result += currentValue - nextValue
 
-            } else {
-                result += currentValue
-            }
+    for (let i = 0; i < s.length; i++) {
+        const currentCharValue = map.get(s.charAt(i))
+        const nextCharValue = map.get(s.charAt(i + 1))
+        if (nextCharValue === undefined) {
+            result += currentCharValue!
+            continue
+        }
+
+        if (currentCharValue! < nextCharValue!) {
+            result += nextCharValue! - currentCharValue!
+            i++
+        } else {
+            result += currentCharValue!
         }
     }
+    return result
 }
 
-romanToInt('IV')
+// @ts-ignore
+const result = romanToInt('MCMXCIV')
+console.log(result)
