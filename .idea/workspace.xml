@@ -6,31 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="fd077427-2bf5-401f-97a2-c0376d925616" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/cockroach.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/cockroach.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/convert-string-to-number.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/convert-string-to-number.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/count-by-x.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/count-by-x.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/fake-binary.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/fake-binary.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/find-max-min-values.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/find-max-min-values.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/grade-book.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/grade-book.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/grow.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/grow.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/hello-world.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/hello-world.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/is-he-gonna-survive.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/is-he-gonna-survive.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/is-palindrome.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/is-palindrome.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/reverse-words.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/reverse-words.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sentence-smash.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sentence-smash.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/string-ends-with.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/string-ends-with.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sum-of-odd-numbers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-of-odd-numbers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/sum-without-highest-and-lowest-number.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-without-highest-and-lowest-number.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/fundamentals/you-are-a-square.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/codewars/fundamentals/you-are-a-square.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\tools\php74\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -39,32 +27,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/OneDrive/Рабочий стол&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Asus/OneDrive/Рабочий стол/web/Coding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Settings.JavaScript",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\OneDrive\Рабочий стол\web\Coding" />
+      <recent name="C:\Users\Asus\OneDrive\Рабочий стол\web\Coding\typescript\leetcode" />
       <recent name="C:\Users\Asus\OneDrive\Рабочий стол\web\TypeScript-coding\typescript" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
       </set>
     </attachedChunks>
   </component>
@@ -82,6 +73,21 @@
       <workItem from="1748329379527" duration="315000" />
       <workItem from="1748329705365" duration="2454000" />
       <workItem from="1750592645632" duration="146000" />
+      <workItem from="1750593203083" duration="26000" />
+      <workItem from="1750701746949" duration="15000" />
+      <workItem from="1751031070693" duration="414000" />
+      <workItem from="1751541670476" duration="1084000" />
+      <workItem from="1751548526027" duration="127000" />
+      <workItem from="1751605766954" duration="4000" />
+      <workItem from="1751607616767" duration="10967000" />
+      <workItem from="1751698034400" duration="9000" />
+      <workItem from="1751720923365" duration="837000" />
+      <workItem from="1751808385324" duration="649000" />
+      <workItem from="1751866815911" duration="625000" />
+      <workItem from="1751976634801" duration="4497000" />
+      <workItem from="1752005062276" duration="3247000" />
+      <workItem from="1752133365244" duration="5033000" />
+      <workItem from="1752575326371" duration="4966000" />
     </task>
     <servers />
   </component>
@@ -94,7 +100,33 @@
         <option value="$PROJECT_DIR$/fake-binary.js" />
         <option value="$PROJECT_DIR$/grade-book.js" />
         <option value="$PROJECT_DIR$/sentence-smash.js" />
+        <option value="$PROJECT_DIR$/typescript/leetcode/roman-to-integer.js" />
+        <option value="$PROJECT_DIR$/typescript/leetcode/palindrome-number.js" />
+        <option value="$PROJECT_DIR$/typescript/leetcode/two-sum.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/hello-world.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-without-highest-and-lowest-number.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/sentence-smash.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/string-ends-with.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/count-by-x.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/is-this-a-triangle.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/is-he-gonna-survive.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/convert-string-to-number.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/is-palindrome.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/cockroach.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/grade-book.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/sum-of-odd-numbers.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/you-are-a-square.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/reverse-words.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/find-max-min-values.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/fake-binary.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/bit-counting.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/fundamentals/grow.js" />
+        <option value="$PROJECT_DIR$/typescript/codewars/rank-up/for-rank-up.js" />
       </list>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

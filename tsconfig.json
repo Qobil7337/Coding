@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "lib": ["ES2015", "DOM"], // "DOM" if you're working in browser
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true
+    }
+}
